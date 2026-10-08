@@ -32,4 +32,4 @@ cd bubble-game
 ![Bubble Game Preview](<bubble-game.png>)
 
 ## Author
-@Ayontikapal
+@ananttirupati
